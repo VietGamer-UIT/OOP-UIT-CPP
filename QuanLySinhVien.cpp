@@ -1,14 +1,9 @@
 /*
  *Doan Hoang Viet (Viet Gamer)
- *Date: 27/01/2026
- *Description: Chuong trinh quan ly sinh vien co ban (OOP C++)
- *Features:
- * 	-Tao ID tu dong (SV001, SV002,...)
- *	-Chuan hoa ho ten
- *	-Sap xep theo GPA giam dan
- *	-Nap chong toan tu Input / Output
+  Date: 27/01/2026
+  
+
  */
- 
 #include <bits/stdc++.h>
 
 using namespace std;
