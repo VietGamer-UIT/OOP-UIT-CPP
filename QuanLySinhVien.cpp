@@ -24,12 +24,12 @@ class SinhVien
 		friend istream& operator >> (istream &in, SinhVien &a);
 		friend ostream& operator << (ostream &out, SinhVien b);
 		friend bool operator < (SinhVien a, SinhVien b);
-		friend void ChuanHoaTen(SinhVien&);
-		friend void ChuanHoaNS(string&);
+		friend void chuanHoaTen(SinhVien&);
+		friend void chuanHoaNS(string&);
 };
 
 //Ham chuan hoa ten
-void ChuanHoaTen(SinhVien &a)
+void chuanHoaTen(SinhVien &a)
 {
 	string res = "";
 	stringstream ss(a.ten);
@@ -46,7 +46,7 @@ void ChuanHoaTen(SinhVien &a)
 }
 
 //Ham chuan hoa ngay sinh
-void ChuanHoaNS(string &ns)
+void chuanHoaNS(string &ns)
 {
 	if (ns[1] == '/') ns = "0" + ns;
 	if (ns[4] == '/') ns.insert(3, "0");
@@ -64,9 +64,9 @@ istream& operator >> (istream &in, SinhVien &a)
 		s = "0" + s;
 	a.id = "SV" + s;
 	cout << "Nhap ten: "; in.ignore();
-	getline(in, a.ten); ChuanHoaTen(a);
+	getline(in, a.ten); chuanHoaTen(a);
 	cout << "Nhap ngay sinh: "; in >> a.ns;
-	ChuanHoaNS(a.ns);
+	chuanHoaNS(a.ns);
 	cout << "Nhap GPA: "; in >> a.gpa;
 	return in;
 }
