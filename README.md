@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Active_Learning-orange.svg)
 
 ## 👋 Giới thiệu
-Chào mừng đến với kho lưu trữ mã nguồn môn **Lập trình Hướng đối tượng (OOP)** của tôi. Đây là nơi tôi lưu lại toàn bộ quá trình tu luyện C++ tại **Trường Đại học Công nghệ Thông tin (UIT) - ĐHQG TP.HCM**.
+Chào mừng đến với kho lưu trữ mã nguồn môn **Lập trình Hướng đối tượng (OOP)** của Đoàn Hoàng Việt (VietGamer-UIT) 🦆. Đây là nơi tôi lưu lại toàn bộ quá trình tu luyện C++ tại **Trường Đại học Công nghệ Thông tin (UIT) - ĐHQG TP.HCM**.
 Repo này bao gồm các bài tập thực hành (Lab), các thuật toán và những dự án nhỏ (Mini-projects) được xây dựng dựa trên tư duy OOP.
 
 ## 🛠️ Kiến thức cốt lõi
@@ -24,5 +24,3 @@ OOP-UIT-CPP/
 ├── 📁 Mini_Projects/        # Các dự án tổng hợp
 │   └── 📚 Library_Management/   # Hệ thống quản lý thư viện (Sách/Bài báo)
 └── README.md
-
-Author: Đoàn Hoàng Việt (VietGamer-UIT) 🦆
