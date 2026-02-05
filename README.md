@@ -4,7 +4,7 @@
 
 ## 🛠️ Danh sách bài tập (Exercises List)
 
-### 1. 🏛️ Lập trình Hướng đối tượng (OOP)
+### 🏛️ Lập trình Hướng đối tượng (OOP)
 Các bài tập rèn luyện 4 tính chất: Đóng gói, Kế thừa, Đa hình, Trừu tượng.
 
 | Tên bài tập | Kỹ thuật chính | Trạng thái |
