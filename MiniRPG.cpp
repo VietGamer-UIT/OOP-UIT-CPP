@@ -46,7 +46,7 @@ public:
 	Hero(string n) : Character(n, 100, 25) {}
 	void useSkill(Character* target) override {
 		int chance = rand() % 100;
-		if (chance < 30) {
+		if (chance < 10) {
 			cout << "[HERO] " << name << " used CRITICAL STRIKE!\n";
 			target->takeDamage(damage * 2);
 		}
