@@ -13,12 +13,24 @@ Repo này lưu lại hành trình từ những dòng code "gà mờ" đầu tiê
 
 ```text
 OOP-UIT-CPP/
-├── 📂 bai-tap-code/       # 🧠 Kho bài tập thực hành (Lab & Homework)
-│   ├── TinhToanPhanSo.cpp
-│   └── (Các bài tập khác...)
+├── 📂 bai-tap-code/        # 🧠 Kho bài tập thực hành (Lab & Homework)
+│   ├── 📂 bai-tap-tuan2-UIT/
+│   ├── 📂 bai-tap-tuan3-UIT/
+│   ├── 📂 bai-tap-tuan5-UIT/
+│   ├── 📂 bai-tap-tuan6-UIT/
+│   └── ...
 │
-└── 📂 mini-project/        # 🎮 Các dự án nhỏ áp dụng OOP thực tế
-    ├── ⚔️ RPG_Game/        # Game nhập vai Console (Turn-based)
-    └── 📚 QuanLyThuVien/   # Hệ thống quản lý tài liệu (sách/báo)
-    └── 🎓 QuanLySinhVien/  # Hệ thống quản lý đào tạo cơ bản
-    └── (Các mini-project khác...)
+├── 📂 giai-de/             # Kho đề thi thực hành
+│   ├── 📂 de-1/
+│   └── ...
+│
+├── 📂 mini-project/        # 🎮 Các dự án nhỏ áp dụng OOP thực tế
+│    ├── ⚔️ RPG_Game        # Game nhập vai Console (Turn-based)
+│    ├── 📚 QuanLyThuVien   # Hệ thống quản lý tài liệu (sách/báo)
+│    ├── 🎓 QuanLySinhVien  # Hệ thống quản lý đào tạo cơ bản
+│    └── (Các mini-project khác...)
+│
+├── 📂 tu-hoc/              # Kho bài tập thực hành tự học
+│    ├── 📂 PhepTinhTachFile/
+│    ├── 📂 RPGTachFile/
+│    └── TinhToanPhanSo.cpp
