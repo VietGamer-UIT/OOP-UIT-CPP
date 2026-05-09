@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01/01.vcxproj" Id="2a674f0a-3290-4975-9c94-6f287c48e32d" />
+  <Project Path="02/02.vcxproj" Id="627f0b5d-f2c1-4583-bcf3-4bf09a9062de" />
+  <Project Path="03/03.vcxproj" Id="65d9cf3f-6e0e-4b8e-915a-00f72137ead5" />
+  <Project Path="04/04.vcxproj" Id="0a307ec4-50d7-4f4e-84d7-9345b1729d8a" />
+  <Project Path="05/05.vcxproj" Id="d37b96dc-d7be-416e-a149-9dbc2f417491" />
+</Solution>
